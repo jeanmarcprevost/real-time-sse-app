@@ -18,7 +18,7 @@ on peut tester la propriété origin du retour du serveur pour être certain que
     'Access-Control-Allow-Origin': 'http://localhost:3001'
 ## Poc
 
-https://github.com/jeanmarcprevost/real-time-sse-app
+https://github.com/jeanmarcprevost/real-time-sse-app  
 https://github.com/jeanmarcprevost/real-time-sse-backend
 
 Une fois le client et le serveur lancés:
