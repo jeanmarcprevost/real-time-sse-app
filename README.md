@@ -4,6 +4,7 @@ Interaction entre le serveur et le client, les clients ouvrent une connection au
 C'est une spécificité W3C, il existe une lib de polyfills pour IE
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_F7886C553D8D7DF85B3176E00CCE788B3E3C21B7298AB6EBF72BF32938A72E2E_1537435418335_Capture+decran+2018-09-20+a+11.23.22.png)
+source: https://caniuse.com/#search=server%20sent%20events
 
 - Sécurité
 
